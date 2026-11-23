@@ -1,6 +1,10 @@
 # 💌 A Little Letter For You | Interactive "I'm Sorry" Scrapbook
 
+> 🌐 **Live Website:** [https://akshaj-kumar.github.io/sorry1/](https://akshaj-kumar.github.io/sorry1/)  
+> 📦 **GitHub Repository:** [https://github.com/Akshaj-Kumar/sorry1](https://github.com/Akshaj-Kumar/sorry1)
+
 A fully responsive, premium, cute, emotional and interactive "I'm Sorry" website inspired by handmade notebook-paper and scrapbook apology letters.
+
 
 Built with **React**, **Vite**, **Tailwind CSS**, **Framer Motion**, and **Web Audio API** sound effects.
 
